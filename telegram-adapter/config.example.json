@@ -1,0 +1,7 @@
+{
+  "telegramBotToken": "PEGA_AQUI_EL_TOKEN_DE_BOTFATHER",
+  "backendWebhookUrl": "http://127.0.0.1:8000/api/whatsapp/webhook",
+  "backendWebhookToken": "cambiar-webhook-token-1234",
+  "internalToken": "cambiar-internal-token-1234",
+  "port": 3002
+}

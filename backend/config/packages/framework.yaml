@@ -1,0 +1,39 @@
+# see https://symfony.com/doc/current/reference/configuration/framework.html
+framework:
+    secret: '%env(APP_SECRET)%'
+
+    # Note that the session will be started ONLY if you read or write from it.
+    session: true
+
+    serializer:
+        enabled: true
+
+    property_info:
+        enabled: true
+
+    http_client:
+        default_options:
+            timeout: 10
+
+    rate_limiter:
+        limiters:
+            api_public:
+                policy: 'sliding_window'
+                limit: 60
+                interval: '1 minute'
+            api_admin:
+                policy: 'fixed_window'
+                limit: 120
+                interval: '1 minute'
+
+    uid:
+        default_uuid_version: 7
+
+    #esi: true
+    #fragments: true
+
+when@test:
+    framework:
+        test: true
+        session:
+            storage_factory_id: session.storage.factory.mock_file

@@ -1,0 +1,838 @@
+{
+  "services": [
+    {
+      "name": "APICOGRAMA",
+      "description": "CUPS 871202",
+      "duration_minutes": 15,
+      "price": "55000.00"
+    },
+    {
+      "name": "DOPPLER DE ARTERIAS ILIACAS",
+      "description": "CUPS 882260",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "DOPPLER OBSTETRICO CON EVALUACION DE CIRCULACION PLACENTARIA",
+      "description": null,
+      "duration_minutes": 45,
+      "price": "185000.00"
+    },
+    {
+      "name": "ECOGRAFIA ARTICULAR DE CADERA",
+      "description": "CUPS 881630",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA ARTICULAR DE CODO",
+      "description": "CUPS 881611",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA ARTICULAR DE HOMBRO",
+      "description": "CUPS 881610",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA ARTICULAR DE MANO",
+      "description": "CUPS 881613",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA ARTICULAR DE PUÑO (MUÑECA)",
+      "description": "CUPS 881612",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA ARTICULAR DE RODILLA",
+      "description": "CUPS 881620",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA CEREBRAL TRANSFONTANELAR CON ANALISIS DOPPLER",
+      "description": "CUPS 881118",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA CEREBRAL TRANSFONTANELAR CON TRANSDUCTOR DE 7.MHZ O MAS",
+      "description": "CUPS 881112",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE ABDOMEN SUPERIOR: HIGADO- PANCREAS- VIAS BILIARES- RIÑONES- BAZO Y GRANDES VASOS",
+      "description": "CUPS 881305",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE ABDOMEN TOTAL : HIGADO- PANCREAS- VESICULA- VIAS BILIARES- RIÑONES- BAZO- GRANDES VASOS- PELVIS Y FLANCOS",
+      "description": "CUPS 881302",
+      "duration_minutes": 30,
+      "price": "95000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE ABDOMEN: PILORO",
+      "description": "CUPS 881313",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE ANO",
+      "description": "CUPS 881320",
+      "duration_minutes": 30,
+      "price": "90000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE CALCANEO",
+      "description": "CUPS 881640",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE CUELLO",
+      "description": "CUPS 881132",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE GLANDULAS SALIVALES CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881131",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE HIGADO- PANCREAS- VIA BILIAR Y VESICULA",
+      "description": "CUPS 881306",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE MAMA- CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881201",
+      "duration_minutes": 30,
+      "price": "90000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE OTROS SITIOS TORACICOS",
+      "description": "CUPS 881212",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE PENE CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881521",
+      "duration_minutes": 30,
+      "price": "85000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE PROSTATA TRANSABDOMINAL",
+      "description": "CUPS 881501",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE PROSTATA TRANSRECTAL",
+      "description": "CUPS 881502",
+      "duration_minutes": 30,
+      "price": "95000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TEJIDOS BLANDOS DE ABDOMEN CON ANALISIS DOPPLER",
+      "description": "CUPS 881362",
+      "duration_minutes": 45,
+      "price": "130000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TEJIDOS BLANDOS DE CARA",
+      "description": "CUPS 881130",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TEJIDOS BLANDOS DE PARED ABDOMINAL Y DE PELVIS",
+      "description": "CUPS 881301",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TEJIDOS BLANDOS EN LAS EXTREMIDADES INFERIORES CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881602",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TEJIDOS BLANDOS EN LAS EXTREMIDADES SUPERIORES CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881601",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TIROIDES CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881141",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE TORAX: PERICARDIO O PLEURA",
+      "description": "CUPS 881211",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DE VIAS URINARIAS (RIÑONES- VEJIGA Y PROSTATA TRANSABDOMINAL)",
+      "description": "CUPS 881332",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER CON EVALUACION DE FLUJO SANGUINEO EN HIPERTENSION PORTAL",
+      "description": "CUPS 882296",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER CON EVALUACION DE FLUJO SANGUINEO EN MASAS ABDOMINALES",
+      "description": "CUPS 882292",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER CON EVALUACION DE FLUJO SANGUINEO EN MASAS PELVICAS",
+      "description": "CUPS 882294",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE AORTA ABDOMINAL",
+      "description": "CUPS 882212",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE ARTERIAS ILIACAS",
+      "description": "CUPS 882262",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE ARTERIAS MESENTERICAS",
+      "description": "CUPS 882232",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE ARTERIAS RENALES",
+      "description": "CUPS 882222",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE OTROS ORGANOS TRASPLANTADOS",
+      "description": "CUPS 882602",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE OTROS VASOS PERIFERICOS DEL CUELLO",
+      "description": "CUPS 882132",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE RIÑON TRASPLANTADO",
+      "description": "CUPS 882603",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE TRONCO CELIACO",
+      "description": "CUPS 882242",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS",
+      "description": "CUPS 882801",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS ABDOMINALES O PELVICOS",
+      "description": "CUPS 882203",
+      "duration_minutes": 45,
+      "price": "170000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS ARTERIALES DE MIEMBROS INFERIORES UNILATERAL",
+      "description": "CUPS 882308",
+      "duration_minutes": 45,
+      "price": "115000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS ARTERIALES DE MIEMBROS INFERIORESBILATERAL",
+      "description": "CUPS 882308-1",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS ARTERIALES DE MIEMBROS SUPERIORES BILATERAL",
+      "description": "CUPS 882307-1",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS ARTERIALES DE MIEMBROS SUPERIORES UNILATERAL",
+      "description": "CUPS 882307",
+      "duration_minutes": 45,
+      "price": "115000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS DEL CUELLO",
+      "description": "CUPS 882112",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS DEL PENE",
+      "description": "CUPS 882272",
+      "duration_minutes": 45,
+      "price": "100000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS ESCROTALES",
+      "description": "CUPS 882282",
+      "duration_minutes": 45,
+      "price": "115000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS VENOSOS DE MIEMBRO INFERIOR",
+      "description": "CUPS 882318",
+      "duration_minutes": 45,
+      "price": "115000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS VENOSOS DE MIEMBRO SUPERIOR",
+      "description": "CUPS 882316",
+      "duration_minutes": 45,
+      "price": "115000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS VENOSOS DE MIEMBROS INFERIORES",
+      "description": "CUPS 882317",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VASOS VENOSOS DE MIEMBROS SUPERIORES",
+      "description": "CUPS 882309",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA DOPPLER DE VENA CAVA",
+      "description": "CUPS 882252",
+      "duration_minutes": 45,
+      "price": "190000.00"
+    },
+    {
+      "name": "ECOGRAFIA OBSTETRICA CON DETALLE ANATOMICO ( DE LA SEMANA 20 A LA 25)",
+      "description": "CUPS 881437",
+      "duration_minutes": 40,
+      "price": "140000.00"
+    },
+    {
+      "name": "ECOGRAFIA OBSTETRICA CON TRANSLUCENCIA NUCAL (DE LA SEMANA 11 A LA 13)",
+      "description": "CUPS 881436",
+      "duration_minutes": 40,
+      "price": "140000.00"
+    },
+    {
+      "name": "ECOGRAFIA OBSTETRICA TRANSABDOMINAL",
+      "description": "CUPS 881431",
+      "duration_minutes": 30,
+      "price": "90000.00"
+    },
+    {
+      "name": "ECOGRAFIA OBSTETRICA TRANSVAGINAL",
+      "description": "CUPS 881432",
+      "duration_minutes": 30,
+      "price": "90000.00"
+    },
+    {
+      "name": "ECOGRAFIA PELVICA CON ANALISIS DOPPLER",
+      "description": "CUPS 881360",
+      "duration_minutes": 45,
+      "price": "150000.00"
+    },
+    {
+      "name": "ECOGRAFIA PELVICA GINECOLOGICA TRANSABDOMINAL",
+      "description": "CUPS 881402",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA PELVICA GINECOLOGICA TRANSVAGINAL",
+      "description": "CUPS 881401",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFIA TESTICULAR CON ANALISIS DOPPLER",
+      "description": "CUPS 881511",
+      "duration_minutes": 45,
+      "price": "115000.00"
+    },
+    {
+      "name": "ECOGRAFIA TESTICULAR CON TRANSDUCTOR DE 7 MHZ O MAS",
+      "description": "CUPS 881510",
+      "duration_minutes": 30,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFÍA ARTICULAR DE PIE",
+      "description": "CUPS 881622",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "ECOGRAFÍA ARTICULAR DE TOBILLO",
+      "description": "CUPS 881621",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA AXIAL DE SESAMOIDEOS Y CABEZAS DE LOS METATARSIANOS",
+      "description": "CUPS 873304",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFIA COMPARATIVA DE PIES CON APOYO (AP Y LATERAL)",
+      "description": "CUPS 873303",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ABDOMEN SIMPLE",
+      "description": "CUPS 872002",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ABDOMEN SIMPLE CON PROYECCIONES ADICIONALES (SERIE DE ABDOMEN AGUDO)",
+      "description": "CUPS 872011",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE AGUJEROS OPTICOS",
+      "description": "CUPS 870103",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ANTEBRAZO",
+      "description": "CUPS 873122",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ANTEVERSION FEMORAL",
+      "description": "CUPS 873311",
+      "duration_minutes": 15,
+      "price": "95000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ANTEVERSION TIBIAL",
+      "description": "CUPS 873314",
+      "duration_minutes": 15,
+      "price": "95000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ARCO CIGOMATICO",
+      "description": "CUPS 870105",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ARTICULACION TEMPOROMAXILAR (ATM)",
+      "description": "CUPS 870131",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ARTICULACIONES ACROMIO CLAVICULARES COMPARATIVAS",
+      "description": "CUPS 873202",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ARTICULACIONES ESTERNOCLAVICULARES",
+      "description": "CUPS 871129",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ARTICULACIONES SACROILIACAS",
+      "description": "CUPS 871091",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE BASE DE CRANEO",
+      "description": "CUPS 870003",
+      "duration_minutes": 15,
+      "price": "80000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE CARA (PERFILOGRAMA)",
+      "description": "CUPS 870101",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE CAVUM FARINGEO",
+      "description": "CUPS 870602",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE CLAVICULA",
+      "description": "CUPS 873112",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE CODO",
+      "description": "CUPS 873205",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE COLUMNA CERVICAL",
+      "description": "CUPS 871010",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE COLUMNA DORSOLUMBAR",
+      "description": "CUPS 871030",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE COLUMNA LUMBOSACRA",
+      "description": "CUPS 871040",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE COLUMNA TORACICA",
+      "description": "CUPS 871020",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE COLUMNA UNION CERVICO DORSAL",
+      "description": "CUPS 871019",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE COLUMNA VERTEBRAL TOTAL",
+      "description": "CUPS 871060",
+      "duration_minutes": 15,
+      "price": "115000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE CONDUCTO AUDITIVO INTERNO",
+      "description": "CUPS 870007",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE CRANEO SIMPLE",
+      "description": "CUPS 870001",
+      "duration_minutes": 15,
+      "price": "80000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ESTERNON",
+      "description": "CUPS 871112",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE HOMBRO",
+      "description": "CUPS 873204",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE HUESOS LARGOS SERIE COMPLETA ( ESQUELETO AXIAL Y APENDIPULAR)",
+      "description": "CUPS 873002",
+      "duration_minutes": 15,
+      "price": "115000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE HUESOS NASALES",
+      "description": "CUPS 870107",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE HUMERO",
+      "description": "CUPS 873121",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE MALAR",
+      "description": "CUPS 870104",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE MASTOIDES COMPARATIVAS",
+      "description": "CUPS 870005",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE MAXILAR INFERIOR",
+      "description": "CUPS 870113",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE MAXILAR SUPERIOR",
+      "description": "CUPS 870112",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE OMOPLATO",
+      "description": "CUPS 873111",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE ORBITAS",
+      "description": "CUPS 870102",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE PEÑASCOS",
+      "description": "CUPS 870006",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE REJA COSTAL",
+      "description": "CUPS 871111",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE RODILLAS COMPARATIVAS POSICION VERTICAL (UNICAMENTE VISTA ANTEPOSTERIOR)",
+      "description": "CUPS 873422",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE SACRO COCCIX",
+      "description": "CUPS 871050",
+      "duration_minutes": 15,
+      "price": "85000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE SENOS PARANASALES",
+      "description": "CUPS 870108",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE SILLA TURCA",
+      "description": "CUPS 870004",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE TEJIDOS BLANDOS DE CUELLO",
+      "description": "CUPS 870601",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DE TORAX (P.A. O A.P. Y LATERAL DECUBITO LATERAL OBLICUAS O LATERAL)",
+      "description": "CUPS 871121",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIA DINAMICA DE COLUMNA VERTEBRAL",
+      "description": "CUPS 871070",
+      "duration_minutes": 15,
+      "price": "100000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PANORAMICA DE COLUMNA (GONIOMETRIA U ORTOGRAMA) FORMATO 14\" X 17\" ( NIÑOS)",
+      "description": "CUPS 871062",
+      "duration_minutes": 15,
+      "price": "115000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PANORAMICA DE COLUMNA (GONIOMETRIA U ORTOGRAMA) FORMATO 14\" X 36\" ( ADULTOS)",
+      "description": "CUPS 871061",
+      "duration_minutes": 15,
+      "price": "115000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PANORAMICA DE MIEMBROS INFERIORES (GONIOMETRIA U ORTOGRAMA) EN FORMATO 14*17 (NIÑOS)",
+      "description": "CUPS 873306",
+      "duration_minutes": 15,
+      "price": "105000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PANORAMICA DE MIEMBROS INFERIORES (GONIOMETRIA U ORTOGRAMA) EN FORMATO 14*36 (ADULTOS)",
+      "description": "CUPS 873305",
+      "duration_minutes": 15,
+      "price": "105000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PARA DETECTAR EDAD OSEA [CARPOGRAMA]",
+      "description": "CUPS 873004",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PARA ESTUDIOS DE LONGITUD DE LOS HUESOS (ORTORRADIOGRAFIA Y ESCANOGRAMA)",
+      "description": "CUPS 873003",
+      "duration_minutes": 15,
+      "price": "105000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PARA MEDICION DE MIEMBROS INFERIORES [ESTUDIO DE FARILL U OSTEOMETRIA] O ESTUDIO DE PIE PLANO (PIES CON APOYO)",
+      "description": "CUPS 873302",
+      "duration_minutes": 15,
+      "price": "115000.00"
+    },
+    {
+      "name": "RADIOGRAFIA PARA SERIE ESQUELETICA",
+      "description": "CUPS 873001",
+      "duration_minutes": 15,
+      "price": "105000.00"
+    },
+    {
+      "name": "RADIOGRAFIA TANGENCIAL O AXIAL DE ROTULA",
+      "description": "CUPS 873423",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFIAS COMPARATIVAS DE EXTREMIDADES INFERIORES",
+      "description": "CUPS 873443",
+      "duration_minutes": 15,
+      "price": "55000.00"
+    },
+    {
+      "name": "RADIOGRAFIAS COMPARATIVAS DE EXTREMIDADES SUPERIORES",
+      "description": "CUPS 873123",
+      "duration_minutes": 15,
+      "price": "55000.00"
+    },
+    {
+      "name": "RADIOGRAFIAS TANGENCIAL O AXIAL DE ROTULA",
+      "description": "CUPS 873426",
+      "duration_minutes": 15,
+      "price": "95000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE CADERA COMPARATIVA",
+      "description": "CUPS 873412",
+      "duration_minutes": 15,
+      "price": "95000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE CADERA O ARTICULACIÓN COXO-FEMORAL (AP, LATERAL)",
+      "description": "CUPS 873411",
+      "duration_minutes": 15,
+      "price": "70000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE CALCÁNEO (AXIAL Y LATERAL)",
+      "description": "CUPS 873335",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE COLUMNA - TEST DE E TEST DE ESCOLIOSIS",
+      "description": "CUPS M21144",
+      "duration_minutes": 15,
+      "price": "115000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE FÉMUR (AP, LATERAL)",
+      "description": "CUPS 873312",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE MANO",
+      "description": "CUPS 873210",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE MIEMBRO INFERIOR (AP, LATERAL)",
+      "description": "CUPS 873340",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE PIE (AP, LATERAL Y OBLICUA)",
+      "description": "CUPS 873333",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE PIERNA (AP, LATERAL)",
+      "description": "CUPS 873313",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE PUÑO O MUÑECA",
+      "description": "CUPS 873206",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE RODILLA (AP, LATERAL)",
+      "description": "CUPS 873420",
+      "duration_minutes": 15,
+      "price": "75000.00"
+    },
+    {
+      "name": "RADIOGRAFÍA DE TOBILLO (AP, LATERAL Y ROTACIÓN INTERNA)",
+      "description": "CUPS 873431",
+      "duration_minutes": 15,
+      "price": "65000.00"
+    },
+    {
+      "name": "RADIOGRAFÍAS EN EXTREMIDADES PROYECCIONES ADICIONALES (STRESS, TUNEL, OBLICUAS)",
+      "description": "CUPS 873444",
+      "duration_minutes": 15,
+      "price": "55000.00"
+    }
+  ]
+}

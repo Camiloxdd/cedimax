@@ -1,0 +1,7 @@
+{
+  "port": 3001,
+  "backendWebhookUrl": "http://127.0.0.1:8000",
+  "webhookToken": "PEGA_AQUI_EL_WHATSAPP_WEBHOOK_TOKEN",
+  "internalToken": "PEGA_AQUI_EL_WHATSAPP_INTERNAL_TOKEN",
+  "businessNumber": "573224399893"
+}

@@ -1,0 +1,33 @@
+# Secundarios y logs
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Secretos locales (backend Symfony)
+# backend/.env SI se versiona: solo contiene defaults sin secretos.
+# Los secretos reales van a backend/.env.local (ignored).
+backend/.env.*;
+backend/var/
+
+# Adaptador Telegram
+telegram-adapter/node_modules/
+telegram-adapter/config.json
+telegram-adapter/*.log
+telegram-adapter/.wwebjs_*
+
+# Adaptador WhatsApp (ignora sus propios .gitignore via .git/info/exclude si no)
+whatsapp-adapter/node_modules/
+whatsapp-adapter/config.json
+whatsapp-adapter/*.log
+whatsapp-adapter/qr.png
+whatsapp-adapter/.wwebjs_cache/
+whatsapp-adapter/.wwebjs_auth/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env.*.local
+frontend/next-env.d.ts
